@@ -14,7 +14,7 @@ Proficient Software Engineer with a strong foundation in development, programmin
 
 🧾  More about Me [Resume](https://drive.google.com/file/d/1CZtlCYgammwbuRC4f5Z0nYMhr2C2XfMO/view?usp=drivesdk)
 
-📩  You can contact me at [rajesh.mbalu@gmail.com](mailto:rajesh.mbalu@gmail.com)
+📩  You can contact me at [sinojgeorge007@gmail.com](mailto:sinojgeorge007@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rb4807&label=Profile%20views&color=0e75b6&style=flat" alt="Sinoj" /> </p>
 
@@ -25,9 +25,6 @@ Proficient Software Engineer with a strong foundation in development, programmin
 
 <h3 align="left">🥉 Certifications/Achievements</h3>
 
-<h4 align="left">Internship</h4>
-
-● As Python Full Stack Developer at Luminar Technolab
 
 <h4 align="left">Certification</h4>
 
