@@ -161,13 +161,13 @@ Operating Systems:
 
 ### 🌐 Socials
  <p>
-<a href="https://www.linkedin.com/in/rajesh-mbalu" target="blank">
+<a href="https://www.linkedin.com/in/sinoj-george-1a6213220/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /> 
 <a/>
-<a href="https://instagram.com/_._r__b_._" target="blank">
+<a href="https://instagram.com/sinojgeorge007" target="blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
  <a/>
- <a href="https://www.facebook.com/rajesh.balasubramanyam.3?mibextid=ZbWKwL" target="blank"> 
+ <a href="https://www.facebook.com/rajesh.subramanyam.3?mibextid=ZbWKwL" target="blank"> 
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   <a/>
    <p/>
