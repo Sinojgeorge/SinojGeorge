@@ -10,9 +10,9 @@ Proficient Software Engineer with a strong foundation in development, programmin
 
 
 
-🖥️  See my portfolio at [Rajesh-portfolio](https://react-portfolio-nu-opal.vercel.app/)
+🖥️  See my portfolio at [Sinoj-portfolio](https://react-portfolio-n-opal.vercel.app/)
 
-🧾  More about Me [Resume](https://drive.google.com/file/d/1CZtlCYgammwbuRC4f5Z0nYMhr2C2XfMO/view?usp=drivesdk)
+🧾  More about Me [Resume](https://drive.google.com/file/d/1CZtlCYgammwbuRCf5Z0nYMhr2C2XfMO/view?usp=drivesdk)
 
 📩  You can contact me at [sinojgeorge007@gmail.com](mailto:sinojgeorge007@gmail.com)
 
