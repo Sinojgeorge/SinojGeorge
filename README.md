@@ -157,7 +157,7 @@ Backend-focused Software Engineer with hands-on experience in Python/Django and 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sinojgeorge&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+<img src="https://streak-stats.demolab.com/?user=Sinojgeorge&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
 
 </div>
 
