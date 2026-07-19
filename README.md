@@ -23,7 +23,7 @@
 ```python
 class SinojGeorge:
     role        = "Software Engineer @ DEIENAMI"
-    experience  = "2+ year professional | 6-month internship"
+    experience  = "3+ year professional | 6-month internship"
     core_stack  = ["Python", "Django", "Java", "Spring Boot", "C++"]
     interests   = ["Backend Systems", "REST APIs", "AI/ML Integration"]
     currently   = "Building robust, scalable backend applications"
